@@ -1,0 +1,4 @@
+[submodule "json-performance"]
+	path = json-performance
+	url = git@github.com:nanoexpress/json-parse-expirement.git
+	branch = master
