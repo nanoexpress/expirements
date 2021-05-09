@@ -2,3 +2,7 @@
 	path = json-performance
 	url = git@github.com:nanoexpress/json-parse-expirement.git
 	branch = master
+[submodule "json-serialize"]
+	path = json-serialize
+	url = git@github.com:nanoexpress/json-serialize.git
+	branch = master
